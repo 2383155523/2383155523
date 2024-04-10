@@ -2,5 +2,4 @@
 ### 你好，我是微若蜉蝣 
 
 - :penguin: 2383155523
-- :city_sunset: 湖北-武汉
 - :house: https://fuyouplus.cn/
